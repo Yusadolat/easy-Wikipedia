@@ -1,2 +1,2 @@
 # Easy-Wikipedia
-Easiet way to read from Wikipedia
+View live at https://yusadolat.github.io/easy-Wikipedia/
